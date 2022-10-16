@@ -5,7 +5,7 @@ paper = "paper"
 scissors = "scissors"
 choices = [rock, paper, scissors]
 
-rand_int = random.randint(0,2)
+rand_int = random.randint(0, 2)
 user_input = int(input("Choose 0-Rock 1-Paper 2-Scissors\n"))
 
 if user_input > 2 or user_input < 0:
