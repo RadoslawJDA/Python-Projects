@@ -26,7 +26,7 @@ while should_continue:
     shift = shift % 26
     caesar(start_text=text, shift_amount=shift, cipher_direction=direction)
 
-    result = input("Type 'yes' if you want to go again. Otherwhise type 'no'. \n")
+    result = input("Type 'yes' if you want to go again. Otherwise type 'no'. \n")
     if result == "no":
         should_continue = False
         print("Goodbye")
