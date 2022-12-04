@@ -1,28 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="dictionaries exercises">
-      <change afterPath="$PROJECT_DIR$/Auction bidding/Auction program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculator/calculator.py" afterDir="false" />
+    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="re-modelling directory">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1/day 1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4 - rock paper scissors/heads_or_tails.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock paper scissors/heads_or_tails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4 - rock paper scissors/rock_paper_scisors.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock paper scissors/rock_paper_scisors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4 - rock paper scissors/treasure_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock paper scissors/practice/treasure_map.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 4 - rock paper scissors/who_will_pay_the_bill.py" beforeDir="false" afterPath="$PROJECT_DIR$/rock paper scissors/practice/who_will_pay_the_bill.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5 - password generator/average_height.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator/practice/average_height.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5 - password generator/max_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator/practice/max_num.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5 - password generator/password_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator/password_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 5 - password generator/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Password Generator/practice/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7 - hangman/hangman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman/hangman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7 - hangman/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman/hangman_art.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 7 - hangman/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Hangman/hangman_words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8 - caesar cipher/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar cipher/caesar_cipher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8 - caesar cipher/function_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar cipher/practice/function_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8 - caesar cipher/paint_area_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar cipher/practice/paint_area_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 8 - caesar cipher/prime_number_checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Caesar cipher/practice/prime_number_checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/dict_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Auction bidding/dictionaries/dict_basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dictionaries/dict_nesting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Auction bidding/dictionaries/dict_nesting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blackjack/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack/blackjack.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +60,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670007466103</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="re-modelling directory">
+      <created>1670168949460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670168949460</updated>
+    </task>
+    <task id="LOCAL-00003" summary="re-modelling directory">
+      <created>1670169080382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670169080382</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dictionaries exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="dictionaries exercises" />
+    <MESSAGE value="re-modelling directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="re-modelling directory" />
   </component>
 </project>
