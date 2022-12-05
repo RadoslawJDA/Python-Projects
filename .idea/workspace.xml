@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="re-modelling directory">
+    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="Blackjack game">
+      <change afterPath="$PROJECT_DIR$/lower-higher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blackjack/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blackjack/blackjack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weight_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/weight_conversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670169080382</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Blackjack game">
+      <created>1670181050958</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670181050958</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Blackjack game">
+      <created>1670181378908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670181378908</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dictionaries exercises" />
     <MESSAGE value="re-modelling directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="re-modelling directory" />
+    <MESSAGE value="Blackjack game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blackjack game" />
   </component>
 </project>
