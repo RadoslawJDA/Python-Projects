@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="Blackjack game">
-      <change afterPath="$PROJECT_DIR$/lower-higher.py" afterDir="false" />
+    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="Lower higher game">
+      <change afterPath="$PROJECT_DIR$/higher-lower/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/higher-lower/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weight_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/weight_conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lower-higher.py" beforeDir="false" afterPath="$PROJECT_DIR$/guess-number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670181378908</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lower higher game">
+      <created>1670201181284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670201181284</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Lower higher game">
+      <created>1670201194912</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670201194912</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +122,7 @@
     <MESSAGE value="dictionaries exercises" />
     <MESSAGE value="re-modelling directory" />
     <MESSAGE value="Blackjack game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blackjack game" />
+    <MESSAGE value="Lower higher game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lower higher game" />
   </component>
 </project>
