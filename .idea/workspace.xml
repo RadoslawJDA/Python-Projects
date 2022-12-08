@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="Lower higher game">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="Lower higher game fix">
+      <change afterPath="$PROJECT_DIR$/Coffee-Machine/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee-Machine/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/higher-lower/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/higher-lower/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670432278436</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lower higher game fix">
+      <created>1670433111663</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670433111663</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +136,7 @@
     <MESSAGE value="re-modelling directory" />
     <MESSAGE value="Blackjack game" />
     <MESSAGE value="Lower higher game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lower higher game" />
+    <MESSAGE value="Lower higher game fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lower higher game fix" />
   </component>
 </project>
