@@ -21,18 +21,54 @@ def report():
         print(f'{resource.capitalize()}: {resources[resource]}ml')
 
 
+def is_sufficient(drink):
+
+    ingredients = MENU[drink]["ingredients"]
+    for ingredient in ingredients:
+        sufficient = False
+        print(ingredient, ingredients[ingredient], resources[ingredient])
+        if ingredients[ingredient] <= resources[ingredient]:
+            print('There is sufficient amount of ingredients')
+            sufficient = True
+            resources[ingredient] -= ingredients[ingredient]
+        else:
+            sufficient = False
+            return sufficient
+    return sufficient
+
+
+def is_enough_money(wallet, drink):
+    enough = False
+    cost = MENU[drink]['cost']
+    if wallet >= cost:
+        enough = True
+        return enough, cost
+    else:
+        return enough, cost
+
+
 is_on = True
 while is_on:
     choice = input("What would you like? (espresso/latte/cappuccino) or report: ")
 
-    if choice == 'off':
-        is_on = False
+    if choice in ['cappuccino', 'espresso', 'latte']:
+        sufficient = is_sufficient(choice)
+        if sufficient:
+            wallet = money()
+            enough_money, drink_price = is_enough_money(wallet, choice)
+            if enough_money:
+                print(f'There you go: {choice} as you ordered')
+                wallet -= drink_price
+                print(f'Your change is ${wallet:.2f}')
+            else:
+                print('You dont have enough money')
+        else:
+            print('There is no ingredients in machine')
     elif choice == 'report':
+        # report
         report()
-    elif choice in ['cappuccino', 'espresso', 'latte']:
-        # wallet
-        wallet = money()
-
+    elif choice == 'off':
+        is_on = False
     else:
         print('Only options available are (espresso/latte/cappuccino)')
 
