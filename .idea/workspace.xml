@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="finished Coffee-Machine">
-      <change afterPath="$PROJECT_DIR$/Coffee-Machine-OOP/coffee-machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coffee-Machine-OOP/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coffee-Machine-OOP/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Coffee-Machine-OOP/money_machine.py" afterDir="false" />
+    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="OOP_Coffee_Machine">
+      <change afterPath="$PROJECT_DIR$/OOP_Quiz/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Quiz/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Quiz/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Quiz/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Quiz/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/timer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670512320236</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="OOP_Coffee_Machine">
+      <created>1670610881355</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670610881355</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +171,7 @@
     <MESSAGE value="Lower higher game fix" />
     <MESSAGE value="Coffee-Machine" />
     <MESSAGE value="finished Coffee-Machine" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished Coffee-Machine" />
+    <MESSAGE value="OOP_Coffee_Machine" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP_Coffee_Machine" />
   </component>
 </project>
