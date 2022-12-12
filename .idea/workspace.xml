@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="OOP_Quiz">
-      <change afterPath="$PROJECT_DIR$/e-mail/e-mail_sender.py" afterDir="false" />
+    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="E-mail sender">
+      <change afterPath="$PROJECT_DIR$/Blackjack_OOP/blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weather_cast.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670781084783</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="E-mail sender">
+      <created>1670782089036</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670782089036</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +183,7 @@
     <MESSAGE value="finished Coffee-Machine" />
     <MESSAGE value="OOP_Coffee_Machine" />
     <MESSAGE value="OOP_Quiz" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP_Quiz" />
+    <MESSAGE value="E-mail sender" />
+    <option name="LAST_COMMIT_MESSAGE" value="E-mail sender" />
   </component>
 </project>
