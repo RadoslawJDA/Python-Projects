@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="Weather_in_city">
+    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="Turtle painting using turtle library">
       <change afterPath="$PROJECT_DIR$/Blackjack_OOP/blackjack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutrtle/image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutrtle/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutrtle/turtel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tutrtle/turtel_spirograph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle-race/turtel-race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle-race/turtel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Weather_cast.py" beforeDir="false" afterPath="$PROJECT_DIR$/Weather_cast.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +33,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Documents\GitHub\Python Projects\Day 8 - caesar cipher\practice" />
@@ -174,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670884616979</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Turtle painting using turtle library">
+      <created>1671051570473</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1671051570473</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,6 +205,7 @@
     <MESSAGE value="OOP_Quiz" />
     <MESSAGE value="E-mail sender" />
     <MESSAGE value="Weather_in_city" />
-    <option name="LAST_COMMIT_MESSAGE" value="Weather_in_city" />
+    <MESSAGE value="Turtle painting using turtle library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Turtle painting using turtle library" />
   </component>
 </project>
