@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="Snake">
+    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="Snek gem - update">
       <change afterPath="$PROJECT_DIR$/Blackjack_OOP/blackjack.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snake-oop/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake-oop/snake.py" afterDir="false" />
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671318039977</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Snek gem - update">
+      <created>1671322738359</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1671322738359</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +228,7 @@
     <MESSAGE value="Turtle painting using turtle library" />
     <MESSAGE value="Turtle race" />
     <MESSAGE value="Snake" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snake" />
+    <MESSAGE value="Snek gem - update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Snek gem - update" />
   </component>
 </project>
