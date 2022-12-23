@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="Snek gem - update">
+    <list default="true" id="17a08716-8c61-440b-80b8-8e0de9c0d606" name="Changes" comment="binary search">
+      <change afterPath="$PROJECT_DIR$/Blackjack_OOP/Bedoes - Wschód (Lubię zapierdalać) nightcore.mp4" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Blackjack_OOP/blackjack.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake-oop/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake-oop/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +198,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671322738359</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Snek gem - update">
+      <created>1671325230026</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1671325230026</updated>
+    </task>
+    <task id="LOCAL-00022" summary="binary search">
+      <created>1671489912141</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1671489912141</updated>
+    </task>
+    <task id="LOCAL-00023" summary="binary search">
+      <created>1671576304754</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1671576304754</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +250,7 @@
     <MESSAGE value="Turtle race" />
     <MESSAGE value="Snake" />
     <MESSAGE value="Snek gem - update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snek gem - update" />
+    <MESSAGE value="binary search" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary search" />
   </component>
 </project>
