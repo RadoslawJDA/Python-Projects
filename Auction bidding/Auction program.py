@@ -21,4 +21,3 @@ while a == 0:
     if choice == "N":
         a = 1
         max_bidder()
-

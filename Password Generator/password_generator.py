@@ -26,7 +26,7 @@ for number in range(0, nr_numbers):
 
 print(password)
 
-# Hard Level - Order of characters randomised:
+# Order of characters randomised:
 # e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
 shuffled_password = ''.join(random.sample(password, len(password)))
 print(shuffled_password)
